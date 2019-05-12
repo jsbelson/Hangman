@@ -1,22 +1,3 @@
-# a=1
-# b=2
-# c=3
-# d=4
-# cookies = True
-# kale = False
-# word="hello"
-# name = "Q"
-# print(word + " " + name + str(b))
-# if cookies == kale:
-#     print("True")
-# else:
-#     print("False")
-# for i in range (1,10):
-#     print("hi")
-# while True:
-#     print("hi")
-# nextLetter=raw_input("Guess a letter: ")
-# print(nextLetter)
 import random
 myList = ["cookies", "hi", "realization", "Q", "eagles", "fly", "squeak" ]
 hangman_word = random.choice(myList)
